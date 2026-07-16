@@ -23,6 +23,7 @@ Plant diseases significantly affect agricultural productivity and food security.
 <img src="images/accvepoch.png" width="450">
 </td>
 </tr>
+</table>
 
 
 ## Dataset
