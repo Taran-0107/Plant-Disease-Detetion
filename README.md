@@ -10,6 +10,21 @@ Plant diseases significantly affect agricultural productivity and food security.
 
 ---
 
+## Model Details
+
+<table>
+<tr>
+<td align="center">
+<b>Model Prediction</b><br>
+<img src="images/pdd.png" width="450">
+</td>
+<td align="center">
+<b>Accuracy Plot</b><br>
+<img src="images/accvepoch.png" width="450">
+</td>
+</tr>
+
+
 ## Dataset
 - Total Training Images: 70,295  
 - Total Validation Images: 17,572  
